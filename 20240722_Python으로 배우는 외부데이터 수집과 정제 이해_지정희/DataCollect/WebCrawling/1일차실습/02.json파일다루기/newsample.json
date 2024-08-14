@@ -1,0 +1,21 @@
+{
+    "name": "Wes",
+    "place_lived": [
+        "United States",
+        "Spain",
+        "Germany"
+    ],
+    "pet": null,
+    "siblings": [
+        {
+            "name": "Scott",
+            "age": 25,
+            "pet": "Zuko"
+        },
+        {
+            "name": "Katie",
+            "age": 30,
+            "pet": "Cisco"
+        }
+    ]
+}

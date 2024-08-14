@@ -1,0 +1,14 @@
+/* tag (li) */
+h1 {
+    color:blue;
+    font-size:24px;
+    }
+
+/* tag (li) */
+li {color:red}
+
+/* class */
+.highlight {color:green}
+
+/* id */
+#basic {color:aqua}

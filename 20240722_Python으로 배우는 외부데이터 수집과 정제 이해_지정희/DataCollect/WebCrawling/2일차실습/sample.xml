@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<customers>
+    <customer>
+        <name>홍길동</name>
+        <address>서울 강남구</address>
+    </customer>
+    <customer>
+        <name>고길동</name>
+        <address>서울 강북구</address>
+    </customer>
+    <customer>
+        <name>김길동</name>
+        <address>서울 서초구</address>
+    </customer>
+</customers>

@@ -1,0 +1,23 @@
+{
+    "employees": [
+        {
+            "name": "홍길동",
+            "age": 30,
+            "department": "SW개발부",
+            "skills": [
+                "Python",
+                "JavaScript",
+                "C++"
+            ]
+        },
+        {
+            "name": "김길동",
+            "age": 25,
+            "department": "마케팅부",
+            "skills": [
+                "쇼셜미디어마케팅",
+                "컨텐트 개발"
+            ]
+        }
+    ]
+}
